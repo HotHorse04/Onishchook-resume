@@ -1,0 +1,143 @@
+
+aside {
+    background: #dfeeff;
+}
+
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #ffffff;
+    width: 1200px;
+    margin: auto;
+}
+body{
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background: #e5e5e5;
+    font-family: "Montserrat", sans-serif;
+}
+.main-content {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-right: 80px;
+    padding-bottom: 40px;
+}
+.my_photo {
+    margin-bottom: 40px;
+}
+.my-name {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px;
+}
+.about_me {
+    margin-bottom: 40px;
+}
+.my_summary {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #595959;
+}
+.wrapper_under{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+} 
+.projects_div {
+    padding-left: 85px;
+}
+.proj_li {
+    color: rgb(94, 122, 206);
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration-line: underline;
+
+}
+.cute_radius {
+    border-top-right-radius:150px; 
+}
+.cute_radius2 {
+    border-top-right-radius:118px; 
+}
+.cute_boba {
+    background: #dfeeff;
+    border-radius: 10px;
+    padding-bottom: 4px;
+    padding-left: 8px;
+}
+.cute_boba1{
+    background: #5686bd;
+    padding-left: 12px;
+    padding-right: 20px;
+    padding-top: 20px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+.sidebar {
+ background: #dfeeff;
+ padding-bottom: 40px;   
+}
+.sidebar-title{
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px;
+    color: #161D2A;
+    margin-bottom: 8px;
+}
+.contacts-container {
+     margin-bottom: 40px;
+}
+.contacts-item {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161D2A;
+}
+.padding_for_text_asside{
+    margin: 20px;
+}
+.li_skils_container {
+    margin-bottom: 20px;
+}
+.li_skils_items {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+    list-style: disc;
+
+}
+.div_exp {
+    color:darkcyan
+}
+.ul_exp {
+    color: #5686bd;
+}
+.projects_items {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;
+    color: gray;
+    list-style: decimal;
+}
+p {
+    font-weight: 200;
+    font-size: 10px;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 0px;
+    margin-bottom: 8px;
+
+}
